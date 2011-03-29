@@ -1,0 +1,26 @@
+	reg szöveg
+	levéltartalmak (aktivációs kód)
+	aktiválás
+	jelszó emlékeztetõ
+	profil
+
+	változó tartalmak
+	-wysiwyg cucok
+
+webshop
+	-listázás
+	-akció
+-top termékek
+-random termékek
+-közeli termékek
+
+kosár
+-kosárba tétel/kivétel
+-kosár szerkesztése
+-kifizetés
+
+-gyógyszer keresés
+
+menü összerakása
+
+-bank/szállítás

@@ -1,0 +1,10 @@
+pannonpatika.comxa.com
+
+$mysql_host = "mysql9.000webhost.com";
+$mysql_database = "a8173715_patika";
+$mysql_user = "a8173715_patika";
+$mysql_password = "q1w2e3";
+
+FTP Hostname: ftp.pannonpatika.comxa.com or 64.120.180.2
+FTP Username: a8173715
+FTP Passsword: ******
